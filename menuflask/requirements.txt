@@ -1,0 +1,11 @@
+backports-abc==0.5
+click==6.7
+Flask==1.0.2
+futures==3.2.0
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+singledispatch==3.4.0.3
+six==1.11.0
+tornado==5.1
+Werkzeug==0.14.1
